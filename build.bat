@@ -1,1 +1,3 @@
-start "" "projects/Processing-Sorts/index/index.pde"
+@echo off
+cls
+python build.py %*
